@@ -6,8 +6,8 @@ import math # Matematiksel hesaplar için
 
 # --- AYARLAR ---
 cam_w, cam_h = 640, 480
-frame_r = 100
-smoothening = 5
+frame_r = 80
+smoothening = 2
 CLICK_DISTANCE = 30  # Tıklama için parmakların ne kadar yakın olması gerektiği
 
 ploc_x, ploc_y = 0, 0
